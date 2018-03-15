@@ -13,8 +13,8 @@
  */
 "pool_list" :
 [
-{"pool_address" : "116.196.95.186:15000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
-{"pool_address" : "116.196.95.186:15000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
+{"pool_address" : "47.95.5.223:17000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "47.95.5.223:17000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
 /*
