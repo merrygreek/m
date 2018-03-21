@@ -13,7 +13,7 @@
  */
 "pool_list" :
 [
-{"pool_address" : "47.95.5.223:17000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+{"pool_address" : "tokyo01.electroneum.hashvault.pro:3333", "wallet_address" : "etnjvMPvGM68TZp59KDfWvQoNS7NFaEc9296CK4pSrfA4j5KgTguz5sZNEwC2KMW6iEn8gML7vASrT3gLxD3n9zs3M2PxMYVyH.00000000000000000000000000000000000000005ab051e8c865d6627f957c40", "pool_password" : "AA", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
 {"pool_address" : "47.95.5.223:17000", "wallet_address" : "X", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
